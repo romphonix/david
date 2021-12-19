@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'EuroPepper';
+    src: url('Perfect DOS VGA 437 Win.ttf');
+}
+
+p { font-family: EuroPepper; }
+h3 { font-family: EuroPepper; }
+h1 { font-family: EuroPepper; }
+h2 { font-family: EuroPepper; }
+div { font-family: EuroPepper; }
