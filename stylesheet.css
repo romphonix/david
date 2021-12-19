@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'EuroPepper';
+    src: url('eurostile_sc.woff2') format('woff2'),
+         url('eurostile.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+p { font-family: EuroPepper; }
+h3 { font-family: EuroPepper; }
+h1 { font-family: EuroPepper; }
+h2 { font-family: EuroPepper; }
+div { font-family: EuroPepper; }
